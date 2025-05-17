@@ -1,1 +1,7 @@
-
+body {
+    background-color: #1E293B; /* Deep dark blue background */
+    color: #F9F8F8; /* Light gray text */
+    font-family: sans-serif; /* Readable sans-serif font */
+    margin: 0; /* Remove default browser margins */
+    padding: 20px; /* Add some spacing around the content */
+}
