@@ -5,3 +5,20 @@ body {
     margin: 0; /* Remove default browser margins */
     padding: 20px; /* Add some spacing around the content */
 }
+header {
+    padding: 30px 0; /* Add some vertical padding to the header */
+    text-align: center; /* Center the content within the header */
+    margin-bottom: 30px; /* Add some space below the header */
+}
+
+header h1 {
+    font-size: 2.5em; /* Make the main heading larger */
+    margin-bottom: 10px; /* Add a little space below the heading */
+    color: #64CCC5; /* Use the accent color for the heading */
+}
+
+header p {
+    font-size: 1.1em; /* Slightly increase the size of the tagline */
+    color: #CBD5E1; /* A slightly lighter shade of gray for the tagline */
+    font-style: italic; /* Add a touch of elegance with italics */
+}
